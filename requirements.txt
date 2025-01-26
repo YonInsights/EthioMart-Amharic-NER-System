@@ -1,0 +1,7 @@
+telethon
+pandas
+python-dotenv
+matplotlib
+seaborn
+numpy
+notebook
