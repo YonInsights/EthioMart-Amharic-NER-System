@@ -48,3 +48,12 @@
 2025-01-27 21:50:47,952 - my_logger - INFO - Message-related features added:
 2025-01-27 21:50:47,952 - my_logger - INFO - Message-related features added:
 2025-01-27 21:50:47,952 - my_logger - INFO - Message-related features added:
+2025-01-27 21:59:00,947 - my_logger - INFO - Starting EDA process...
+2025-01-27 21:59:02,013 - my_logger - INFO - Data loaded successfully.
+2025-01-27 21:59:02,058 - my_logger - INFO - Displaying the first 5 rows of the dataset:
+2025-01-27 21:59:02,115 - my_logger - INFO - Dataset info:
+2025-01-27 21:59:02,143 - my_logger - INFO - Missing values in the dataset:
+2025-01-27 21:59:02,162 - my_logger - INFO - Basic statistics for numerical columns:
+2025-01-27 21:59:02,274 - my_logger - INFO - Missing values after filling:
+2025-01-27 21:59:02,357 - my_logger - INFO - Date-related features added:
+2025-01-27 21:59:02,513 - my_logger - INFO - Message-related features added:
