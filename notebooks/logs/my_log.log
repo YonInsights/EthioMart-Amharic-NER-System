@@ -1,1 +1,7 @@
 2025-01-27 21:41:48,422 - my_logger - INFO - Starting EDA process...
+2025-01-27 21:43:11,932 - my_logger - INFO - Data loaded successfully.
+2025-01-27 21:43:36,494 - my_logger - INFO - Displaying the first 5 rows of the dataset:
+2025-01-27 21:43:36,519 - my_logger - INFO - Dataset info:
+2025-01-27 21:43:36,554 - my_logger - INFO - Missing values in the dataset:
+2025-01-27 21:43:36,575 - my_logger - INFO - Basic statistics for numerical columns:
+2025-01-27 21:45:39,158 - my_logger - INFO - Missing values after filling:
