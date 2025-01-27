@@ -1,0 +1,14 @@
+telethon
+pandas
+numpy
+dbt
+sqlalchemy
+opencv-python
+torch
+torchvision
+ultralytics
+fastapi
+uvicorn
+pydantic
+python-dotenv
+loguru
