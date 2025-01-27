@@ -1,5 +1,1 @@
-# .gitignore file
 /venv
-/data
-.env
-__pycache__/
