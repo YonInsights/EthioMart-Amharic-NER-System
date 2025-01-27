@@ -6,3 +6,5 @@ seaborn
 numpy
 notebook
 jupyter
+dbt-postgres
+psycopg2-binary # For PostgreSQL connection
