@@ -1,0 +1,198 @@
+2025-01-27 12:32:24,290 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-01-27 12:32:25,844 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-01-27 12:32:46,810 - INFO - Phone migrated to 4
+2025-01-27 12:32:47,057 - INFO - Reconnecting to new data center 4
+2025-01-27 12:32:47,353 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-01-27 12:32:47,355 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-01-27 12:32:47,356 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-01-27 12:32:49,204 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:33:08,131 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-27 12:33:08,133 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:33:08,172 - INFO - Saved 20 messages from DoctorsET
+2025-01-27 12:33:08,172 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-01-27 12:33:08,303 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:33:09,101 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:10,031 - INFO - Saved image: data/raw/images/CheMed123_20230210_122306.jpg
+2025-01-27 12:33:10,039 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:12,085 - INFO - Saved image: data/raw/images/CheMed123_20230202_085852.jpg
+2025-01-27 12:33:12,088 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:13,319 - INFO - Saved image: data/raw/images/CheMed123_20230201_085937.jpg
+2025-01-27 12:33:13,321 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:14,590 - INFO - Saved image: data/raw/images/CheMed123_20230131_091953.jpg
+2025-01-27 12:33:14,593 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:16,351 - INFO - Saved image: data/raw/images/CheMed123_20230130_094525.jpg
+2025-01-27 12:33:16,354 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:18,244 - INFO - Saved image: data/raw/images/CheMed123_20230127_071840.jpg
+2025-01-27 12:33:18,246 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:19,348 - INFO - Saved image: data/raw/images/CheMed123_20230126_182753.jpg
+2025-01-27 12:33:19,351 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:21,821 - INFO - Saved image: data/raw/images/CheMed123_20230123_103920.jpg
+2025-01-27 12:33:21,823 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:23,688 - INFO - Saved image: data/raw/images/CheMed123_20230117_084312.jpg
+2025-01-27 12:33:23,691 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:25,333 - INFO - Saved image: data/raw/images/CheMed123_20230116_134135.jpg
+2025-01-27 12:33:25,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:27,120 - INFO - Saved image: data/raw/images/CheMed123_20230116_101342.jpg
+2025-01-27 12:33:27,123 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:28,290 - INFO - Saved image: data/raw/images/CheMed123_20230116_092609.jpg
+2025-01-27 12:33:28,293 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:29,595 - INFO - Saved image: data/raw/images/CheMed123_20230113_124847.jpg
+2025-01-27 12:33:29,599 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:31,611 - INFO - Saved image: data/raw/images/CheMed123_20230113_094414.jpg
+2025-01-27 12:33:31,614 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:32,844 - INFO - Saved image: data/raw/images/CheMed123_20230106_160621.jpg
+2025-01-27 12:33:32,846 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:35,016 - INFO - Saved image: data/raw/images/CheMed123_20230106_093117.jpg
+2025-01-27 12:33:35,018 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:36,971 - INFO - Saved image: data/raw/images/CheMed123_20230106_060501.jpg
+2025-01-27 12:33:36,975 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:38,634 - INFO - Saved image: data/raw/images/CheMed123_20230104_055802.jpg
+2025-01-27 12:33:38,637 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:40,016 - INFO - Saved image: data/raw/images/CheMed123_20230103_174948.jpg
+2025-01-27 12:33:40,017 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-27 12:33:40,018 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:33:40,035 - INFO - Saved 20 messages from CheMed123
+2025-01-27 12:33:40,035 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-01-27 12:33:40,173 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:33:40,850 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:41,975 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:33:41,978 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:42,672 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:33:42,674 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:43,560 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:33:43,562 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:43,977 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:33:43,979 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:44,618 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:33:44,620 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:45,420 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:33:45,422 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:45,744 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:33:45,747 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:46,124 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:33:46,127 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:46,554 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:33:46,556 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:47,417 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:33:47,419 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:47,904 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:33:47,906 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:48,268 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:33:48,269 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:52,749 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:33:52,751 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:55,523 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:33:55,525 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:33:57,777 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:33:57,780 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:02,296 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:34:02,298 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:03,121 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:34:03,123 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:05,472 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:34:05,473 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:06,621 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:34:06,623 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:07,218 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:34:07,219 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-27 12:34:07,221 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:34:07,237 - INFO - Saved 20 messages from lobelia4cosmetics
+2025-01-27 12:34:07,238 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-01-27 12:34:07,384 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:34:08,187 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-27 12:34:08,188 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:34:08,203 - INFO - Saved 20 messages from yetenaweg
+2025-01-27 12:34:08,203 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-01-27 12:34:08,351 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:34:09,130 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-27 12:34:09,132 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:34:09,151 - INFO - Saved 20 messages from EAHCI
+2025-01-27 12:34:09,151 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-01-27 12:34:09,291 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:34:10,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:11,221 - INFO - Saved image: data/raw/images/CheMed123_20230210_122306.jpg
+2025-01-27 12:34:11,223 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:12,864 - INFO - Saved image: data/raw/images/CheMed123_20230202_085852.jpg
+2025-01-27 12:34:12,866 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:14,233 - INFO - Saved image: data/raw/images/CheMed123_20230201_085937.jpg
+2025-01-27 12:34:14,235 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:15,429 - INFO - Saved image: data/raw/images/CheMed123_20230131_091953.jpg
+2025-01-27 12:34:15,431 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:18,131 - INFO - Saved image: data/raw/images/CheMed123_20230130_094525.jpg
+2025-01-27 12:34:18,133 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:20,117 - INFO - Saved image: data/raw/images/CheMed123_20230127_071840.jpg
+2025-01-27 12:34:20,119 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:21,305 - INFO - Saved image: data/raw/images/CheMed123_20230126_182753.jpg
+2025-01-27 12:34:21,308 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:23,925 - INFO - Saved image: data/raw/images/CheMed123_20230123_103920.jpg
+2025-01-27 12:34:23,927 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:26,093 - INFO - Saved image: data/raw/images/CheMed123_20230117_084312.jpg
+2025-01-27 12:34:26,095 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:27,728 - INFO - Saved image: data/raw/images/CheMed123_20230116_134135.jpg
+2025-01-27 12:34:27,730 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:29,563 - INFO - Saved image: data/raw/images/CheMed123_20230116_101342.jpg
+2025-01-27 12:34:29,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:30,615 - INFO - Saved image: data/raw/images/CheMed123_20230116_092609.jpg
+2025-01-27 12:34:30,617 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:31,868 - INFO - Saved image: data/raw/images/CheMed123_20230113_124847.jpg
+2025-01-27 12:34:31,870 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:34,005 - INFO - Saved image: data/raw/images/CheMed123_20230113_094414.jpg
+2025-01-27 12:34:34,008 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:35,483 - INFO - Saved image: data/raw/images/CheMed123_20230106_160621.jpg
+2025-01-27 12:34:35,485 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:37,564 - INFO - Saved image: data/raw/images/CheMed123_20230106_093117.jpg
+2025-01-27 12:34:37,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:39,807 - INFO - Saved image: data/raw/images/CheMed123_20230106_060501.jpg
+2025-01-27 12:34:39,809 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:41,463 - INFO - Saved image: data/raw/images/CheMed123_20230104_055802.jpg
+2025-01-27 12:34:41,465 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:42,835 - INFO - Saved image: data/raw/images/CheMed123_20230103_174948.jpg
+2025-01-27 12:34:42,836 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-27 12:34:42,838 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:34:42,880 - INFO - Saved 20 messages from CheMed123
+2025-01-27 12:34:42,880 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-01-27 12:34:43,030 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:34:43,636 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:44,985 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:34:44,987 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:45,795 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:34:45,797 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:46,811 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:34:46,813 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:47,188 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:34:47,189 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:47,871 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:34:47,873 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:48,679 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:34:48,681 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:49,052 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053403.jpg
+2025-01-27 12:34:49,054 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:49,480 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:34:49,482 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:50,032 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:34:50,034 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:50,832 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:34:50,834 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:51,329 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:34:51,331 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:51,885 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:34:51,886 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:56,292 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:34:56,294 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:34:58,772 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:34:58,774 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:35:01,055 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250127_053402.jpg
+2025-01-27 12:35:01,057 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:35:06,682 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:35:06,685 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:35:07,347 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:35:07,349 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:35:09,273 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:35:09,275 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:35:10,526 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:35:10,528 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-27 12:35:10,960 - INFO - Saved image: data/raw/images/lobelia4cosmetics_20250126_073325.jpg
+2025-01-27 12:35:10,960 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-27 12:35:10,961 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-27 12:35:11,004 - INFO - Saved 20 messages from lobelia4cosmetics
+2025-01-27 12:35:11,006 - INFO - Not disconnecting (already have no connection)
