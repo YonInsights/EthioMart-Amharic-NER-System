@@ -64,3 +64,14 @@
 2025-01-29 20:25:15,747 - my_logger - INFO - Data loaded successfully.
 2025-01-29 20:26:00,460 - my_logger - INFO - Sentiment features added successfully.
 2025-01-29 20:26:00,460 - my_logger - INFO - Sentiment features added successfully.
+2025-01-29 20:38:38,213 - my_logger - INFO - Starting EDA process...
+2025-01-29 20:40:09,385 - my_logger - INFO - Starting EDA process...
+2025-01-29 20:40:09,385 - my_logger - INFO - Starting EDA process...
+2025-01-29 20:40:11,389 - my_logger - INFO - Data loaded successfully.
+2025-01-29 20:40:11,389 - my_logger - INFO - Data loaded successfully.
+2025-01-29 20:40:11,461 - my_logger - INFO - Temporal features created successfully.
+2025-01-29 20:40:11,461 - my_logger - INFO - Temporal features created successfully.
+2025-01-29 20:40:14,271 - my_logger - INFO - Sentiment features added successfully.
+2025-01-29 20:40:14,271 - my_logger - INFO - Sentiment features added successfully.
+2025-01-29 20:40:14,470 - my_logger - INFO - Categorical variables encoded successfully.
+2025-01-29 20:40:14,470 - my_logger - INFO - Categorical variables encoded successfully.
