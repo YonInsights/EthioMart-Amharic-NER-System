@@ -57,3 +57,10 @@
 2025-01-27 21:59:02,274 - my_logger - INFO - Missing values after filling:
 2025-01-27 21:59:02,357 - my_logger - INFO - Date-related features added:
 2025-01-27 21:59:02,513 - my_logger - INFO - Message-related features added:
+2025-01-29 20:24:42,207 - my_logger - INFO - Starting EDA process...
+2025-01-29 20:24:43,481 - my_logger - INFO - Starting EDA process...
+2025-01-29 20:24:43,481 - my_logger - INFO - Starting EDA process...
+2025-01-29 20:25:15,747 - my_logger - INFO - Data loaded successfully.
+2025-01-29 20:25:15,747 - my_logger - INFO - Data loaded successfully.
+2025-01-29 20:26:00,460 - my_logger - INFO - Sentiment features added successfully.
+2025-01-29 20:26:00,460 - my_logger - INFO - Sentiment features added successfully.
