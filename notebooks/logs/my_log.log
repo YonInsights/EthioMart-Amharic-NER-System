@@ -75,3 +75,5 @@
 2025-01-29 20:40:14,271 - my_logger - INFO - Sentiment features added successfully.
 2025-01-29 20:40:14,470 - my_logger - INFO - Categorical variables encoded successfully.
 2025-01-29 20:40:14,470 - my_logger - INFO - Categorical variables encoded successfully.
+2025-01-29 20:41:03,168 - my_logger - INFO - Text features added successfully.
+2025-01-29 20:41:03,168 - my_logger - INFO - Text features added successfully.
