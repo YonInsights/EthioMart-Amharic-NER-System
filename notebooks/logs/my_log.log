@@ -77,3 +77,9 @@
 2025-01-29 20:40:14,470 - my_logger - INFO - Categorical variables encoded successfully.
 2025-01-29 20:41:03,168 - my_logger - INFO - Text features added successfully.
 2025-01-29 20:41:03,168 - my_logger - INFO - Text features added successfully.
+2025-01-30 20:39:46,278 - my_logger - INFO - Starting EDA process...
+2025-01-30 20:39:48,255 - my_logger - INFO - Data loaded successfully.
+2025-01-30 20:39:48,328 - my_logger - INFO - Temporal features created successfully.
+2025-01-30 20:39:48,449 - my_logger - INFO - Text features added successfully.
+2025-01-30 20:39:50,044 - my_logger - INFO - Sentiment features added successfully.
+2025-01-30 20:43:36,312 - my_logger - INFO - Categorical features encoded successfully.
