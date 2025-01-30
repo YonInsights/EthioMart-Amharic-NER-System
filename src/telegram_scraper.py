@@ -3,6 +3,7 @@ import logging
 from dotenv import load_dotenv
 from telethon import TelegramClient, events
 from telethon.tl.functions.messages import GetHistoryRequest
+from telethon.tl.types import MessageMediaPhoto
 import pandas as pd
 
 # Load environment variables
@@ -17,16 +18,18 @@ API_ID = os.getenv('TELEGRAM_API_ID')
 API_HASH = os.getenv('TELEGRAM_API_HASH')
 PHONE_NUMBER = os.getenv('TELEGRAM_PHONE_NUMBER')
 
-# Define the output directory for scraped data
+# Define the output directories for scraped data
 OUTPUT_DIR = os.path.join(os.getcwd(), 'data', 'raw')
+IMAGE_DIR = os.path.join(OUTPUT_DIR, 'images')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(IMAGE_DIR, exist_ok=True)
 
 # Initialize the Telegram client
 client = TelegramClient('session_name', API_ID, API_HASH)
 
 async def scrape_channel(channel_username, limit=100):
     """
-    Scrape messages from a Telegram channel.
+    Scrape messages and images from a Telegram channel.
     
     Args:
         channel_username (str): The username of the Telegram channel.
@@ -56,13 +59,20 @@ async def scrape_channel(channel_username, limit=100):
         # Extract relevant data from messages
         data = []
         for message in messages.messages:
-            data.append({
+            message_data = {
                 'id': message.id,
                 'date': message.date,
                 'message': message.message,
                 'views': message.views if hasattr(message, 'views') else None,
                 'media': bool(message.media)
-            })
+            }
+            data.append(message_data)
+            
+            # Download images if present
+            if isinstance(message.media, MessageMediaPhoto):
+                image_path = os.path.join(IMAGE_DIR, f"{channel_username}_{message.id}.jpg")
+                await client.download_media(message, file=image_path)
+                logger.info(f"Saved image: {image_path}")
         
         # Save the data to a CSV file
         df = pd.DataFrame(data)
@@ -83,7 +93,6 @@ async def main():
         'lobelia4cosmetics', 
         'yetenaweg',
         'EAHCI'  
-          
     ]
     
     for channel in channels:
