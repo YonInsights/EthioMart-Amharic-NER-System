@@ -1,4 +1,4 @@
-# src/database/db_operations.py
+# src/cldb_operations.py
 
 import psycopg2
 import pandas as pd
