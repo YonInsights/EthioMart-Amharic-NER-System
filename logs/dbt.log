@@ -1,0 +1,24 @@
+[0m17:14:36.689975 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EE5EF70B60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EE5E4E9130>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001EE5E4EA930>]}
+
+
+============================== 17:14:36.710086 | f4ba7848-baab-4118-8922-632df017796a ==============================
+[0m17:14:36.710086 [info ] [MainThread]: Running with dbt=1.9.2
+[0m17:14:36.712103 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\Yoni\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt init ethiopian_medical_dbt', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m17:14:36.846313 [debug] [MainThread]: Starter project path: D:\Kifya_training\Week 7\EthioMart-Amharic-NER-System\venv\Lib\site-packages\dbt\include\starter_project
+[0m17:14:36.954739 [info ] [MainThread]: 
+Your new dbt project "ethiopian_medical_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:14:36.956762 [info ] [MainThread]: Setting up your profile.

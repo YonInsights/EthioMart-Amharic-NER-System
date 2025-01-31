@@ -83,3 +83,12 @@
 2025-01-30 20:39:48,449 - my_logger - INFO - Text features added successfully.
 2025-01-30 20:39:50,044 - my_logger - INFO - Sentiment features added successfully.
 2025-01-30 20:43:36,312 - my_logger - INFO - Categorical features encoded successfully.
+2025-01-31 16:45:25,505 - my_logger - INFO - Starting feature engineering process...
+2025-01-31 16:45:51,780 - my_logger - INFO - Loaded 476 rows from telegram_messages
+2025-01-31 16:46:26,053 - my_logger - INFO - Duplicates removed successfully.
+2025-01-31 16:46:26,077 - my_logger - INFO - Missing values handled successfully.
+2025-01-31 16:47:01,793 - my_logger - INFO - Temporal features created successfully.
+2025-01-31 16:47:01,834 - my_logger - INFO - Text features added successfully.
+2025-01-31 16:47:04,396 - my_logger - INFO - Sentiment features added successfully.
+2025-01-31 16:47:04,429 - my_logger - INFO - Categorical features encoded successfully.
+2025-01-31 16:47:25,401 - my_logger - INFO - Cleaned data saved successfully in table: cleaned_telegram_messages
