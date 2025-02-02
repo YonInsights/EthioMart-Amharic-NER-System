@@ -53,16 +53,16 @@ def detect_objects_in_images(input_dir):
         try:
             img = preprocess_image(image_path)
             results = model(img)
-            # Parse results: results.xyxy[0] returns bounding boxes with [xmin, ymin, xmax, ymax, confidence, class]
+            # Parse results: results.xyxy[0] returns bounding boxes with 
+            # [xmin, ymin, xmax, ymax, confidence, class]
             for *box, conf, cls in results.xyxy[0].tolist():
-                # Get class name from model names dictionary
                 class_name = results.names[int(cls)]
                 results_list.append({
                     "image_file": image_file,
-                    "xmin": box[0],
-                    "ymin": box[1],
-                    "xmax": box[2],
-                    "ymax": box[3],
+                    "box_xmin": box[0],
+                    "box_ymin": box[1],
+                    "box_xmax": box[2],
+                    "box_ymax": box[3],
                     "confidence": conf,
                     "class": class_name,
                     "detection_time": datetime.now()
