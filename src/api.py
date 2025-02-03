@@ -1,26 +1,18 @@
-from sqlalchemy.orm import Session
-from sqlalchemy import text
-from fastapi.responses import JSONResponse
 from fastapi import FastAPI, Depends
 from sqlalchemy.orm import Session
 from sqlalchemy import text
-from db_operations import get_db
 from fastapi.responses import JSONResponse
+from src.db_operations import get_db 
 
 # Initialize FastAPI app
 app = FastAPI()
 
-# Root endpoint
-@app.get("/")
-def read_root():
-    return {"message": "Welcome to the FastAPI service!"}
-# Fetch all messages from telegram_messages_dw
+# Fetch Telegram messages
 @app.get("/messages")
 def get_messages(db: Session = Depends(get_db)):
     query = text("SELECT * FROM warehouse.telegram_messages_dw LIMIT 10")
     result = db.execute(query).fetchall()
     
-    # Convert result to dictionary format
     messages = [
         {
             "id": row[0],
@@ -37,7 +29,7 @@ def get_messages(db: Session = Depends(get_db)):
     
     return JSONResponse(content={"messages": messages})
 
-# Fetch all detections from object_detection_dw
+# Fetch Object Detection results
 @app.get("/detections")
 def get_detections(db: Session = Depends(get_db)):
     query = text("SELECT * FROM warehouse.object_detection_dw LIMIT 10")

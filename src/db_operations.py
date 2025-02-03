@@ -1,6 +1,8 @@
 import psycopg2
 import pandas as pd
 from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy.ext.declarative import declarative_base
 
 # Database configuration
 DB_NAME = "ethiopian_medical_db"
@@ -9,6 +11,20 @@ DB_PASSWORD = "1212"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
+# Create SQLAlchemy engine
+engine = create_engine(f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}")
+
+# Create session factory
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
+# Dependency for FastAPI
+def get_db():
+    """Provide a database session to FastAPI routes."""
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
 # Create SQLAlchemy engine
 def get_engine():
     """Create and return a SQLAlchemy database engine."""
